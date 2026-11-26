@@ -2,6 +2,11 @@
 
 **BiteBox** is a frontend food delivery website developed using HTML5, CSS3, and JavaScript. The project focuses on creating a user-friendly interface with dedicated pages for browsing food, viewing menu items, managing the cart, and contacting the platform.
 
+
+## 🌐 Live Website
+
+🔗 [Click Here to Visit BiteBox](https://bitebox-beta.vercel.app/)
+
 ## 🚀 Project Overview
 
 BiteBox is a frontend web development project built to demonstrate practical knowledge of modern web fundamentals, page structuring, styling, and JavaScript-based interactivity.
